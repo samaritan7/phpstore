@@ -9,8 +9,4 @@ $sql= "INSERT INTO contact(email,msg) VALUES('$email', '$msg')";
 $connect -> query($sql);
 
 
-
-
-
-
 ?>

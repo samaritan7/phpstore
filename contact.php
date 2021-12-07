@@ -55,7 +55,7 @@ include ("partials/head.php");
                             </span>
 
                             <p class="stext-115 cl6 size-213 p-t-18">
-                                Hokage office, Hidden street, Hidden Leaf Village, HL 10018 SL
+                                Trinidad Wiseman Rakvere office, Lai Street21, Rakvere, 44306
                             </p>
                         </div>
                     </div>
@@ -71,7 +71,7 @@ include ("partials/head.php");
                             </span>
 
                             <p class="stext-115 cl1 size-213 p-t-18">
-                                +1 800 Ino
+                                +37253306542
                             </p>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ include ("partials/head.php");
                             </span>
 
                             <p class="stext-115 cl1 size-213 p-t-18">
-                                tenten@hl.com
+                                ursel.paap@twn.ee
                             </p>
                         </div>
                     </div>
