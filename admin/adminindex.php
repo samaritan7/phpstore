@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html>
 <?php
-
 include ('adminpartials/head.php');
 ?>
-
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper">
 
 <?php
 include('adminpartials/header.php');
 include('adminpartials/aside.php');
-
 ?>
  
 
@@ -32,23 +29,7 @@ include('adminpartials/aside.php');
     <!-- Main content -->
     <section class="content">
       <!-- Small boxes (Stat box) -->
-      <div class = "row">
-        <div class="col-sm-9">
-      <a href="products.php">
-           <button style="color: green">Add Products</button>
-
-</a>
-<hr>
-</div>
-<div class="col-sm-9">
-      <a href="categories.php">
-           <button style="color: green">Add Categories</button>
-
-</a>
-<hr>
-</div>
-
-
+     <h1> Hello </h1>
 
     </section>
     <!-- /.content -->
